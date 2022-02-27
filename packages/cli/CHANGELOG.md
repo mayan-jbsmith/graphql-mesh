@@ -1,5 +1,15 @@
 # @graphql-mesh/cli
 
+## 0.56.1
+
+### Patch Changes
+
+- c84d9e95e: enhance(cli): remove graphql-helix dependency
+- c84d9e95e: fix(cli/runtime): print stacktrace of error objects instead of inspecting them
+- Updated dependencies [c84d9e95e]
+  - @graphql-mesh/runtime@0.31.4
+  - @graphql-mesh/config@0.30.4
+
 ## 0.56.0
 
 ### Minor Changes
